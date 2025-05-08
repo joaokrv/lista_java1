@@ -11,18 +11,18 @@ Este repositório reúne uma série de exercícios desenvolvidos em Java com o o
 
 | Arquivo            | Descrição                                                                 |
 |--------------------|---------------------------------------------------------------------------|
-| `exercicio1.java`  | Verifica se um número inteiro é par ou ímpar.                            |
-| `exercicio2.java`  | Calcula a média de três notas e informa se o aluno foi aprovado.         |
-| `exercicio3.java`  | Classifica a idade de uma pessoa em faixa etária (criança, jovem etc).   |
-| `exercicio4.java`  | Simula um caixa eletrônico: calcula quantidade de cédulas a sacar.       |
-| `exercicio5.java`  | Verifica se um número é primo.                                            |
-| `exercicio6.java`  | Calcula a sequência de Fibonacci até um número informado.                |
-| `exercicio7.java`  | Calcula o fatorial de um número.                                          |
-| `exercicio8.java`  | Verifica se um número é perfeito (soma dos divisores).                   |
-| `exercicio9.java`  | Conta números pares e ímpares em um intervalo.                           |
-| `exercicio10.java` | Converte temperaturas entre Celsius e Fahrenheit.                        |
-| `exercicio11.java` | Verifica se um ano é bissexto.                                            |
-| `exercicio12.java` | Simula uma calculadora simples com as quatro operações básicas.          |
+| `exercicio1.java`  | Verifica o número maior e menor entre os dois digitados pelo usuário      |
+| `exercicio2.java`  | Verifica o número maior e menor entre os três digitados pelo usuário      |
+| `exercicio3.java`  | Faz a comparação de preço de um produto entre estabelecimentos diferentes |
+| `exercicio4.java`  | Cálculo de média entre três notas do aluno                                |
+| `exercicio5.java`  | De acordo com as medidas verifica o tipo do triangulo                     |
+| `exercicio6.java`  | Calcula o valor da tarifa por kwH de acordo com seu consumo               |
+| `exercicio7.java`  | Atribui o salário e bonus de acordo com a nota do funcioario              |
+| `exercicio8.java`  | Atribui o salário e bonus de acordo com a nota do funcioario usando switch|
+| `exercicio9.java`  | Atribui e informa o bonus de acordo com a nota do funcioario usando switch|
+| `exercicio10.java` | Sistema de passagens e rota áreas                                         |
+| `exercicio11.java` | Sistema de escolha assento no meio de transporte Janela, Meio ou Corredor |
+| `exercicio12.java` | Cálculo de categora do atleta de acordo com a data de nascimento          |
 
 > ⚠️ Os nomes dos arquivos seguem o padrão `exercicioN.java`, onde **N** representa o número do exercício.
 
